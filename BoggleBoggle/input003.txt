@@ -1,0 +1,17 @@
+9 9
+F L Q I I N R E Y B 
+O C J G W O E K R V 
+O R P A F T N C L V 
+T I C K N N J O B J 
+B C M S L I N H G O 
+A K X P C M J N Y L 
+L E L T D D P K G F 
+L T E Y C A Q T B N 
+Q G V H T B P X X N 
+O Q L U X L K U A J 
+5
+CRICKET
+FOOTBALL
+HOCKEY
+GOLF
+BADMINTON
